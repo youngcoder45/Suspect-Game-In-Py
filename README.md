@@ -1,15 +1,3 @@
-Here’s a polished **README.md** and a **short description** for your repo **Suspect‑Game‑In‑Py** (on GitHub). Feel free to tweak wording to match your style or add images/screenshots if you have them — I’ll leave placeholders where you might.
-
----
-
-### Short Description
-
-A fun, interactive Python text-game where the player investigates and accuses a suspect—built purely with Python.
-
----
-
-### README.md
-
 # Suspect Game (in Python)  
 > A light-hearted detective experience built in Python.
 
