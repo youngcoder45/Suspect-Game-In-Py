@@ -18,8 +18,7 @@ This is a simple and fun text-based game written entirely in Python. You assume 
 ### How to Run  
 1. Clone or download this repository:  
    ```bash
-   git clone https://github.com/youngcoder45/Suspect-Game-In-Py.git
-```
+   git clone https://github.com/youngcoder45/Suspect-Game-In-Py.git```
 
 2. Navigate into the project directory:
 
