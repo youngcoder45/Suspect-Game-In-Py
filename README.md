@@ -1,4 +1,4 @@
-# Suspect Game (in Python)  
+# Suspect Game (in Python)  .
 > A light-hearted detective experience built in Python.
 
 ##  What is this?  
